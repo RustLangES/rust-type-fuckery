@@ -1,5 +1,5 @@
 <div align="right">
-<a href="./README_ES.md">Espanish Version</a>
+<a href="./README_ES.md">Spanish Version</a>
 </div>
 
 # Rust Type-Level Fuckery
